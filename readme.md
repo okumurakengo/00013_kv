@@ -1,4 +1,5 @@
-```
+```bash
+npm i #または yarn
 node server.js
 ```
 
